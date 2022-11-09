@@ -1,4 +1,4 @@
-# Raspberry Pi Pico BAD USB Hoaxshell Payload  
+# Raspberry Pi Pico BAD USB using Hoaxshell Reverse Shell Payload
 Hello, in this repo i'll show you how to get a reverse shell using https://github.com/t3l3machus/hoaxshell with pi pico.
 
 At first you'll  have to create a payload with hoaxshell.

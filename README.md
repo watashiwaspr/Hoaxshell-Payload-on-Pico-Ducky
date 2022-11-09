@@ -9,5 +9,8 @@ At first you'll  have to create a payload with hoaxshell.
 Then you need to create a .bat file with that payload script and specify it in "payload.dd",
 And you are ready to go!
 
+If you don't know how to make a BAD USB using Raspberry Pi Pico, you can learn from this video.
+`https://www.youtube.com/watch?v=e_f9p-_JWZw`
+
 Happy Hacking!
 
